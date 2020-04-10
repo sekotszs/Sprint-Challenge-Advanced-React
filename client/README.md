@@ -1,3 +1,23 @@
+ 1.)Why would you use class component over function components (removing hooks from the question)?
+ 
+ A class component  extends from react and returns a react element.
+
+ 2.)Name three lifecycle methods and their purposes.
+
+Render: renders uour component to the UI
+ComponentDidMount: Initiates API calls
+Component did update: updates the dom in response to prop or state changes
+
+ 3.)What is the purpose of a custom hook?
+
+ to reuse stateful logic and allow us to manipulate our components 
+
+ 4.)Why is it important to test our apps?
+
+Increases confident in code and helps prevent bugs
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
